@@ -1,0 +1,18 @@
+{
+    "events": [
+        {
+            "title":"A new event",
+            "image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+            "date":"2022-10-01",
+            "description":"Some awesome event!",
+            "id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+        }
+    ],
+    "users":[
+        {
+            "email":"091203artem@gmail.com",
+            "password":"$2a$12$x.HRmK50FN40r30mswN/feUxrjSrHc8G04rqDI9hibijYgaYAyCmW",
+            "id":"0b7aef83-1b77-4382-a2d9-79c86154f463"
+        }
+    ]
+}
